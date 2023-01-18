@@ -9,9 +9,16 @@ Lyra is structured to load [[Game Features]] based on the GameFeatureData [[Data
 	* Plugins
 		* GameFeatures
 			* MyGameCore
-				* Core game content here
+				* Blueprints - [[MyGame Blueprints]]
+				* Bot - [[MyGame Bot]]
+				* Camera - [[MyGame Camera]]
+				* Characters - [[MyGame Characters]]
+				* Experiences - [[MyGame Experiences]]
+				* Input
+				* Items
+				* System
 			* MyGameMaps
-				* Game content implementations here
+				* Maps
 	* Source
 		* LyraEditor
 			* Lyra editor code

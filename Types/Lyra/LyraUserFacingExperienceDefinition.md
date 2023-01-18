@@ -1,3 +1,3 @@
 #DataAsset 
 
-Configures how a game mode is access from the Frontend
+Configures how a game mode is accessed from the Frontend

@@ -1,0 +1,1 @@
+Miscellaneous [[Blueprints]] that don't have an already defined location go here.
