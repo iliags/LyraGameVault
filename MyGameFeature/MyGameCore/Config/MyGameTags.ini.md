@@ -1,0 +1,1 @@
+This contains gameplay tags specific to MyGame.
