@@ -1,0 +1,1 @@
+Open this repository with [Obsidian](https://obsidian.md/).
