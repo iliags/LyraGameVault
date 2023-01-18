@@ -1,1 +1,1 @@
-Open this repository with [Obsidian](https://obsidian.md/).
+Clone repository and open with [Obsidian](https://obsidian.md/).
