@@ -22,7 +22,9 @@ Lyra is structured to load [[Game Features]] based on the GameFeatureData [[Data
 					* MyGame C++ code
 			* MyGameMaps
 				* Content
+					* Marketplace content and environment assets go here
 					* Maps
+						* Playable maps go here
 	* Source
 		* LyraEditor
 			* Lyra editor code
